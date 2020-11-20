@@ -12,15 +12,16 @@ cd ./tools
 git clone https://github.com/maurosoria/dirsearch.git
 cd dirsearch
 pip3 install -r requirements.txt
+pip install -r requirements.txt
 cd ./../
 # install cupp
 git clone https://github.com/Mebus/cupp.git
-cp cupp.cfg /cupp/
+cp -r cupp.cfg ./cupp/
 # install CeWL
 git clone https://github.com/digininja/CeWL.git
 # install ceunch
 git clone https://github.com/crunchsec/crunch.git
-mv crunch.sh /crunch
+cp -r crunch.sh ./crunch/
 cd crunch
 mv crunch.sh crunch
 make
