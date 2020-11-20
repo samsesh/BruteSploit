@@ -15,7 +15,7 @@ That can be used during a penetration test to enumerate and can be used in CTF f
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/IDPAY-donate-blue.svg)](https://idpay.ir/init__0)
+- [![Donation](https://img.shields.io/badge/IDPAY-donate-blue.svg)](https://idpay.ir/sudoinit0)
 
 
 
@@ -50,5 +50,5 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## Donations 
 
-- Donation: Send to [idpay](https://idpay.ir/init__0)
+- Donation: Send to [idpay](https://idpay.ir/sudoinit0)
 
