@@ -2,8 +2,8 @@
 #screetsec@dracos-linux.org
 
 
-VERSION='1.1.1'
-CODENAME='Pretty'
+VERSION='2.0.0'
+CODENAME='release'
 dir='pwd'
 
 
@@ -53,7 +53,7 @@ sleep 0.5
 
 
 # check crunch
-      which tools/crunch-3.6/crunch > /dev/null 2>&1
+      which tools/crunch/crunch > /dev/null 2>&1
       if [ "$?" -eq "0" ]; then
       echo -e $okegreen [✔]::[Crunch]: Installation found!;
 
@@ -169,8 +169,8 @@ echo "  | __  |___ _ _| |_ ___|   __|___| |___|_| |_ "
 echo "  | __ -|  _| | |  _| -_|__   | - | | - | |  _| "
 echo "  |_____|_| |___|_| |___|_____|  _|_|___|_|_| "
 echo "                              |_|             "
-echo -e $lightgreen'-- -- +=[(c) 2017-2018 | dracos-linux.org | Kali.org | Hacker Indonesia '
-echo -e $cyan'-- -- +=[ Author: Screetsec < Edo Maland >  ]=+ -- -- '
+echo -e $lightgreen'-- -- +=[(c) 2017-2020 | 127oo1.ir | yt.yellowlight.ir | Kali.org | updated '
+echo -e $cyan'-- -- +=[ Author: init__0 ]=+ -- -- '
 echo -e " "
 
 if [ $(id -u) != "0" ]; then
@@ -253,7 +253,7 @@ echo -e "\t "$green"¦----"$red"►  "$white" Bruteforce & Wordlist Sploit Frame
 echo -e "\t "$green"¦----"$red"►  "$white" Codename "$green": "$red"$CODENAME   "
 echo -e "\t "$green"¦----"$red"►  "$white" Version  "$green": "$red"$VERSION  "
 echo -e "\t "$green"¦----"$red"►  "$white" Modules  "$green": "$red"21 "$green"Modules  "
-echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/screetsec  \n\n"
+echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/samsesh  \n\n"
 }
 
 
@@ -448,6 +448,7 @@ exit
 
 
 fu_un_exit () {
+./tools/tor/killtor.sh
 clear
 sleep 1
 echo -e $yellow"[*] Thank You For Using Brutsploit  =)."
@@ -456,7 +457,7 @@ sleep 1
 echo -e $red"[*] Follow me in Github ."
 echo ""
 sleep 1
-echo -e $okeegreen"[*] www.github.com/screetsec ."
+echo -e $okeegreen"[*] www.github.com/samsesh ."
 echo ""
 sleep 1
 echo -e $yellow"[*] Check Dracos Linux LFS, Penetration OS From Indonesia  =P."
@@ -1424,7 +1425,7 @@ fu_un_setup_1 ()
 
 fu_un_setup_2 ()
 {
-	sperm='tools/cupp.py -i'
+	sperm='tools/cupp/cupp.py -i'
 	while /bin/true
 		do
 					echo -e $green"   |"

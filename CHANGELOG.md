@@ -1,4 +1,4 @@
-
+- v.2.0.0 update tools add tor proxy
 - v.1.1.1 Added Brute Instagram
 - v.1.1.0 Fixed Bugs 
 - v.1.0.0 Release Brutsploit
