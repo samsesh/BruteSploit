@@ -1,5 +1,4 @@
 #!/bin/bash
-#screetsec@dracos-linux.org
 
 
 VERSION='2.0.0'
@@ -113,6 +112,8 @@ else
    sleep 0.5
    exit 1
 fi
+# run tor
+./tools/multitor/tor.sh
 sleep 0.5
 
 }
@@ -2017,10 +2018,11 @@ fu_un_attack_4 ()
 							echo -e "\t "$white"options           example           value "
 							echo -e "\t "$red"-------           -------           -----"
 							echo ""
-							echo -e $green"\t username         "$cyan" screetsec         $_user"
+							echo -e $green"\t username         "$cyan" init__0         $_user"
 							echo -e $green"\t wordlist         "$cyan" pass.txt          $_word"
 							echo -e $green"\t proxy		  "$cyan" proxy.txt         $_prox"
 							echo -e $green"\t thread           "$cyan" 4                 $_thread"
+							echo -e $red"\t for use tor proxy set torproxy.txt for proxy"
 							echo
 			elif [[ $case1 == "show" ]] && [[ $case2 == "info" ]]
 					 then
