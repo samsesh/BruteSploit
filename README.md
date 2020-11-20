@@ -43,7 +43,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Parrot 
 - BackTrack 
 - Backbox  
-- windows wls
+- windows wsl v1 & v2
 
 ## BUG ? 
 - Please Submit new issue 
