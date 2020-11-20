@@ -13,6 +13,7 @@ git clone https://github.com/maurosoria/dirsearch.git
 cd dirsearch
 pip3 install -r requirements.txt
 pip install -r requirements.txt
+pip3.exe install -r requirements.txt
 cd ./../
 # install cupp
 git clone https://github.com/Mebus/cupp.git
