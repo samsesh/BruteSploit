@@ -38,7 +38,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
  
 
 ## A linux operating system. We recommend :
-- Kali Linux 2 or Kali 2016.1 rolling 
+- Kali Linux
 - Cyborg
 - Parrot 
 - BackTrack 
