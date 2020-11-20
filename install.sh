@@ -5,10 +5,10 @@ apt update -y
 apt install -y gcc git medusa crunch cewl fcrackzip python3 python make tor openssl
 #make directory
 mkdir tools
+cd ./tools
 #install tor multiport
 git clone https://github.com/samsesh/multitor.git
 #install dirsearch
-cd ./tools
 git clone https://github.com/maurosoria/dirsearch.git
 cd dirsearch
 pip3 install -r requirements.txt
