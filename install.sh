@@ -3,7 +3,7 @@
 apt update -y
 clear
 #install req
-apt install -y gcc git medusa crunch cewl fcrackzip python3 python make tor openssl
+apt install -y xterm gcc git medusa crunch cewl fcrackzip python3 python make tor openssl
 clear
 #remove old version
 echo "remove old version file"
@@ -48,14 +48,14 @@ clear
 echo "run config"
 sleep 3 
 clear
-echo "run config"\n
+echo "run config"
 echo "dirsearch config"
 cd ./tools/dirsearch
 pip3 install -r requirements.txt
 pip3.exe install -r requirements.txt
 cd ../..
 clear
-echo "run config"\n
+echo "run config"
 echo "config crunch"
 cd ./tools/crunch
 make
@@ -67,6 +67,6 @@ cp ./tools/cupp.cfg ./tools/cupp/
 chmod +x Brutesploit
 clear
 sleep 5
-echo "installing finish"\n
+echo "successfully installed"
 echo "now run ./Brutesploit"
 sleep 5
