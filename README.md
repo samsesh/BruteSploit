@@ -30,7 +30,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## Getting Started
-1. ```git clone https://github.com/Screetsec/Brutesploit.git```
+1. ```git clone https://github.com/samsesh/Brutesploit.git```
 2. ```cd Brutesploit```
 3. ```chmod +x install.sh ```
 3. ```sudo ./install.sh or sudo su ./install.sh ```
