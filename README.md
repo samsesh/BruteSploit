@@ -43,11 +43,10 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Parrot 
 - BackTrack 
 - Backbox  
-
+- windows wls
 
 ## BUG ? 
 - Please Submit new issue 
-
 
 ## Donations 
 
