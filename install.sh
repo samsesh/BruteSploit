@@ -6,6 +6,7 @@ clear
 apt install -y xterm gcc git medusa crunch cewl fcrackzip python3 python make tor openssl
 clear
 #remove old version
+git pull
 echo "remove old version file"
 rm -rf ./tools/multitor/
 rm -rf ./tools/dirsearch/
