@@ -76,6 +76,8 @@ rm -rf ./tools/dirsearch/
 rm -rf ./tools/cupp/
 rm -rf ./tools/CeWL/
 rm -rf ./tools/crunch/
+sleep 03
+clear
 figlet update
 git pull
 echo "download last version"
