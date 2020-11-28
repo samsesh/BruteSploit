@@ -10,7 +10,7 @@ That can be used during a penetration test to enumerate and can be used in CTF f
 
 
 
-<img src="https://cloud.githubusercontent.com/assets/17976841/26713523/583b95aa-4797-11e7-93a5-d67a66726e5c.png" ></img> 
+<img src="./temp/BruteSploit.png" ></img> 
 
 
 ### Donate
@@ -43,7 +43,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Parrot 
 - BackTrack 
 - Backbox  
-- windows wsl v1 & v2
+- windows wsl v2 (you need xlaunch)
 
 ## BUG ? 
 - Please Submit new issue 
