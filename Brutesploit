@@ -255,6 +255,7 @@ echo -e "\t "$green"¦----"$red"►  "$white" Bruteforce & Wordlist Sploit Frame
 echo -e "\t "$green"¦----"$red"►  "$white" Codename "$green": "$red"$CODENAME   "
 echo -e "\t "$green"¦----"$red"►  "$white" Version  "$green": "$red"$VERSION  "
 echo -e "\t "$green"¦----"$red"►  "$white" Modules  "$green": "$red"21 "$green"Modules  "
+echo -e "\t "$green"¦----"$red"►  "$white" BTC  "$green": "$yellow"bc1qf3nthfrdkd7qjn4kp6yjdrrfsx5whu39p9x5cp  "
 echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/samsesh  \n\n"
 }
 
