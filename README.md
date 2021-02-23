@@ -15,13 +15,13 @@ That can be used during a penetration test to enumerate and can be used in CTF f
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
-- [![Donation](https://img.shields.io/badge/IDPAY-donate-blue.svg)](https://idpay.ir/sudoinit0)
+- [![Donation](https://img.shields.io/badge/BITCOIN-donate-yellow.svg)](bitcoin:BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP)
+- ```BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP```
 
 
 
 ### Features & Tutorial [ Request submit a new issue ]
 - https://www.youtube.com/watch?v=x51As2OS2z4 
-- Channel : https://www.youtube.yellowlight.ir
 
 Check in this video : 
 
@@ -50,5 +50,6 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 ## Donations 
 
-- Donation: Send to [idpay](https://idpay.ir/sudoinit0)
+- Donation: Send to [BTC](bitcoin:BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP)
+- ```BC1QF3NTHFRDKD7QJN4KP6YJDRRFSX5WHU39P9X5CP```
 
