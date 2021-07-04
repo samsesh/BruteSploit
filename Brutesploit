@@ -171,8 +171,8 @@ echo "  | __  |___ _ _| |_ ___|   __|___| |___|_| |_ "
 echo "  | __ -|  _| | |  _| -_|__   | - | | - | |  _| "
 echo "  |_____|_| |___|_| |___|_____|  _|_|___|_|_| "
 echo "                              |_|             "
-echo -e $lightgreen'-- -- +=[(c) 2017-2020 | 127oo1.ir | yt.yellowlight.ir | Kali.org | updated '
-echo -e $cyan'-- -- +=[ Author: init__0 ]=+ -- -- '
+echo -e $lightgreen'-- -- +=[(c) 2017-2021 | samsesh.net | Kali.org | updated '
+echo -e $cyan'-- -- +=[ Author: samsesh ]=+ -- -- '
 echo -e " "
 
 if [ $(id -u) != "0" ]; then
